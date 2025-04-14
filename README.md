@@ -31,7 +31,7 @@ To build a secure and transparent single-window system that automates the approv
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** Angular 17, Bootstrap
+- **Frontend:** Angular 16, Bootstrap
 - **Backend:** Node.js, Express.js
 - **Database:** MariaDB (MySQL compatible)
 - **File Handling:** Multer (for uploads)
